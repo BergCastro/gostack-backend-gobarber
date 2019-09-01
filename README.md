@@ -35,7 +35,7 @@ Complete NodeJs API for the Rocketseat Bootcamp GoStack GoBarber application.
 ### Installing dependencies
 
 ```
-cd gostack-backend-gobarber`
+cd gostack-backend-gobarber
 yarn
 ```
 
