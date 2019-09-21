@@ -22,7 +22,7 @@ Complete NodeJs API for the Rocketseat Bootcamp GoStack GoBarber application.
 
 ### Create docker container Postgres
 
-`docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d`
+`docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres`
 
 ### Create docker container MongoDB
 
